@@ -1,0 +1,190 @@
+/* -------------------------------------------- */
+/* ------------ LARGE (INDEX PAGE) ------------ */
+/* -------------------------------------------- */
+
+.jcarousel-skin-atlantica .jcarousel-container {
+    background: transparent;
+   	margin: 0 auto;
+}
+
+.jcarousel-skin-atlantica .jcarousel-container-horizontal {
+    width: 936px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.jcarousel-skin-atlantica .jcarousel-clip-horizontal {
+    width:  936px;
+    height: 292px;
+}
+
+.jcarousel-skin-atlantica .jcarousel-item {
+    width: 458px;
+    height: 284px;
+    padding: 3px;
+    border: 1px solid #e0e0e0;
+}
+
+.jcarousel-skin-atlantica .jcarousel-item-horizontal {
+    margin-right: 4px;
+}
+
+.jcarousel-skin-atlantica .jcarousel-item-placeholder {
+    background: transparent;
+    color: #000;
+}
+
+/**
+ *  Horizontal Buttons
+ */
+.jcarousel-skin-atlantica .jcarousel-next-horizontal {
+    position: absolute;
+    top: 120px;
+    right: 30px;
+    width: 30px;
+    height: 54px;
+    cursor: pointer;
+    background: transparent url(arrow_right.png) no-repeat 0 0;
+}
+
+.jcarousel-skin-atlantica .jcarousel-prev-horizontal {
+    position: absolute;
+    top: 120px;
+    left: 30px;
+    width: 30px;
+    height: 54px;
+    cursor: pointer;
+    background: transparent url(arrow_left.png) no-repeat 0 0;
+}
+    
+/* -------------------------------------------- */
+/* ------------ SMALL (ABOUT THE STUDIO PAGE) ------------ */
+/* -------------------------------------------- */
+
+.jcarousel-skin-atlantica-small .jcarousel-container {
+    background: transparent;
+   	margin: 0 auto;
+}
+
+.jcarousel-skin-atlantica-small .jcarousel-container-horizontal {
+    width: 936px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.jcarousel-skin-atlantica-small .jcarousel-clip-horizontal {
+    width:  936px;
+    height: 140px;
+    border-bottom: 1px dotted #c2c2c2;
+    border-top: 1px dotted #c2c2c2;
+    padding: 15px 0;
+}
+
+.jcarousel-skin-atlantica-small .jcarousel-item {
+    width: 210px;
+    height: 130px;
+    padding: 3px;
+    border: 1px solid #e0e0e0;
+}
+
+.jcarousel-skin-atlantica-small .jcarousel-item-horizontal {
+    margin-right: 20px;
+}
+
+
+.jcarousel-skin-atlantica-small .jcarousel-item-placeholder {
+    background: #fff;
+    color: #000;
+}
+
+/**
+ *  Horizontal Buttons
+ */
+.jcarousel-skin-atlantica-small .jcarousel-next-horizontal {
+    position: absolute;
+    top: 55px;
+    right: 30px;
+    width: 30px;
+    height: 54px;
+    cursor: pointer;
+    background: transparent url(arrow_right.png) no-repeat 0 0;
+}
+
+.jcarousel-skin-atlantica-small .jcarousel-prev-horizontal {
+    position: absolute;
+    top: 55px;
+    left: 30px;
+    width: 30px;
+    height: 54px;
+    cursor: pointer;
+    background: transparent url(arrow_left.png) no-repeat 0 0;
+}
+
+
+
+/* -------------------------------------------- */
+/* ------------ Gallery (PORTFOLIO PAGE) ------------ */
+/* -------------------------------------------- */
+
+.jcarousel-skin-atlantica-gallery .jcarousel-container {
+    background: transparent;
+   	margin: 0 auto;
+}
+
+.jcarousel-skin-atlantica-gallery .jcarousel-container-horizontal {
+    width: 936px;
+    padding-left: 30px;
+    padding-right: 30px;
+    }
+
+.jcarousel-skin-atlantica-gallery .jcarousel-clip-horizontal {
+    width:  936px;
+    height: 470px;
+
+    border-top: 1px dotted #c2c2c2;
+}
+
+.jcarousel-skin-atlantica-gallery .jcarousel-item {
+    width: 210px;
+    height: 575px;
+}
+
+.jcarousel-skin-atlantica-gallery .jcarousel-item-horizontal {
+    margin-right: 25px;
+    padding: 15px 0;
+}
+
+.jcarousel-skin-atlantica-gallery .jcarousel-item-horizontal img {
+    margin-bottom: 10px;
+    padding: 3px;
+    border: 1px solid #e0e0e0;
+}
+
+
+.jcarousel-skin-atlantica-gallery .jcarousel-item-placeholder {
+    background: #fff;
+    color: #000;
+}
+
+/**
+ *  Horizontal Buttons
+ */
+.jcarousel-skin-atlantica-gallery .jcarousel-next-horizontal {
+    position: absolute;
+    top: 205px;
+    right: 30px;
+    width: 30px;
+    height: 54px;
+    cursor: pointer;
+    background: transparent url(arrow_right.png) no-repeat 0 0;
+}
+
+.jcarousel-skin-atlantica-gallery .jcarousel-prev-horizontal {
+    position: absolute;
+    top: 205px;
+    left: 30px;
+    width: 30px;
+    height: 54px;
+    cursor: pointer;
+    background: transparent url(arrow_left.png) no-repeat 0 0;
+}

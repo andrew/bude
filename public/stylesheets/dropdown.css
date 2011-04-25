@@ -1,0 +1,81 @@
+#page .navigation ul li .icon {float:left;}
+
+
+/* DROPDOWN STYLING */
+#nav, #nav ul{
+z-index:99;
+margin:0;
+padding:0;
+list-style-type:none;
+list-style-position:outside;
+position:relative;
+line-height:1.5em; 
+}
+
+#nav a{
+display:block;
+float:none;
+}
+
+#nav li{
+float:left;
+position:relative;
+}
+
+/* Sets the position of the main dropdown */
+#nav ul {
+position:absolute;
+top:1.5em;
+z-index:99;
+}
+
+#nav .more{background: black url(../images/arrow.gif) no-repeat right !important;}
+
+/* Clear the bullet and adjust padding on each drop element */
+.navigation #nav li ul li{
+background: black; 
+float: left;
+clear: both;
+height: auto;
+padding: 10px 0 10px 0;
+border: 1px #333 solid;
+border-top: 0;
+}
+
+/* Fix the width on all drop links */
+#nav li ul a{
+width:12em;
+height:auto;
+z-index:99;
+padding-left: 12px;
+}
+
+/* The Link Hover Color */
+#nav li ul a:hover{color: #09a2da;}
+
+#nav ul ul{
+top:auto;
+z-index:99;
+}	
+
+/* Styles the second level dropdown */
+#nav li ul ul {
+left:12em; /* Slide the 2nd level menu over to the right */
+margin:-36px 0 0 12px; /* Adjust the positioning to accomadate the padding on the 1st level. */
+z-index:99;
+}
+
+/* Add a border to the top of the second level */
+#nav .topli{
+border-top: 1px black solid !important;
+background: #ddd;
+}
+
+#nav li:hover ul ul, #nav li:hover ul ul ul, #nav li:hover ul ul ul ul{
+display:none;
+z-index:99;
+}
+#nav li:hover ul, #nav li li:hover ul, #nav li li li:hover ul, #nav li li li li:hover ul{
+display:block;
+z-index:99;
+}

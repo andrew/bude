@@ -1,0 +1,23 @@
+#sidebar
+  .sidebar_wrap
+    %h3 More information
+    - display_menu(@menu_items, :class => "menu")
+    %hr
+    %h3 Contact Us
+    .contact_us
+      Email: ............................
+      %span.blue info@budechalet.com
+      %br
+      Phone: ........................................
+      %span.blue 01460 65343
+      %br
+      Address:..............................
+      Penstowe Holidays
+      %br
+      .extra-address Kilkhampton, Bude
+      %br
+      Cornwall, EX23 9QY, UK
+    %hr
+    %h3 Map of the area
+    #map
+      %img(src='/images/map.png')

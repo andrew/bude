@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+%html(lang="en")
+  %head
+    %meta(charset="utf-8")
+    - if @description
+      %meta(name="description" content=@description)
+    - if @keywords
+      %meta(name="keywords" content=@keywords)
+    %meta(name="google-site-verification" content="SjTPHqub6mNXdaFVk8iX2Szzo41A-FV2dGH9HQoGaJU")
+    %title= @title
+    <!--[if ! lte IE 6]><!-->
+    %link(rel="stylesheet" href="/stylesheets/core.css")
+    %link(rel="stylesheet" href="/stylesheets/quick-styles.css")
+    <!--<![endif]-->
+    /[if lte IE 6]
+      %link(rel="stylesheet" type="text/css" href="/stylesheets/hacks/ie6.css")
+    %script(src="/javascripts/jquery-1.3.2.min.js")
+    %script(src="/javascripts/jquery.jcarousel.pack.js")
+    %script(src="/javascripts/jquery.pngFix.pack.js")
+    %script(src="/javascripts/jquery.prettyPhoto.js")
+    %script(src="/javascripts/jquery.flow.1.2.min.js")
+    %script(src="/javascripts/jquery.validate.js")
+    %script(src="/javascripts/atlantica.js")
+    %script(src="http://maps.google.com/maps?file=api&v=2&key=ABQIAAAAbmKhtuwEsaOigZetab83whSIbpyzDF5UjUYs0hf7k7KZzIx1HRQT2AoLQ1D_dStoDyEUQiz0AeDidw&sensor=true")
+    %script(src="/javascripts/application.js")
+    %link(href="/articles.xml" rel="alternate" type="application/atom+xml")
+    = haml :analytics, :layout => false
+  %body
+    #container
+      #wrap
+        #page
+          = haml :header, :layout => false
+          #content
+            .content_wrap
+              .full-entry= yield
+              = haml :sidebar, :layout => false
+              .clear
+      = haml :footer, :layout => false
