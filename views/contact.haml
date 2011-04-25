@@ -3,3 +3,32 @@
 %p If you woud like to enquire about facilities, availability, pricing or have any other questions, including technical problems with the site, please feel free to phone us on 01460 65343 or fill out the contact form below and we'll get straight back to you.
 
 %p We can also provide more information about Bude, cornwall and the surrounding areas to make your stay at our chalet as enjoyable as possible.
+
+%form(action="" method="post" id="mailer")
+  %p
+    %label
+      Name:
+      %small
+        %em
+          required
+      %br
+      %input(type="text" value="" class="required" id="full_name" name="contact[full_name]")
+  %p
+    %label
+      Email Address:
+      %small
+        %em
+          required
+      %br
+      %input(type="email" value="" class="required email" id="email" name="contact[email]")
+  %p
+    %label
+      Telephone:
+      %br
+      %input(type="tel" value="" id="phone" name="contact[phone]")
+  %p
+    %label
+      Message:
+      %br
+      %textarea(id="message" rows="5" cols="35" name="contact[message]")
+  %input(type="submit" value="Send your message")
