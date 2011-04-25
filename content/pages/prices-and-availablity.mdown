@@ -1,0 +1,20 @@
+Summary: Prices and availability
+
+# Prices and availability
+
+The chalet is available for hire between March and October every year with competitive, seasonal pricing. For booking and enquiries, please [contact us](/contact-us) directly for pricing and availability or call 01460 65343.
+
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr><th class='first'>Date Ranges</th><th>Prices per Week</th></tr>
+  <tr><td class='first'>5th March to 9th April</td><td>£150</td></tr>
+  <tr><td class='first'>9th April to 16th April</td><td>£175</td></tr>
+  <tr><td class='first'>16th April to 29th April</td><td>£275</td></tr>
+  <tr><td class='first'>30th April to 30th May</td><td>£185</td></tr>
+  <tr><td class='first'>28th May to 4th June</td><td>£385</td></tr>
+  <tr><td class='first'>4th June to 2nd July</td><td>£285</td></tr>
+  <tr><td class='first'>2nd July to 23rd July</td><td>£350</td></tr>
+  <tr><td class='first'>23rd July to 3rd Sept</td><td>£550</td></tr>
+  <tr><td class='first'>3rd Sept to 29th Oct</td><td>£250</td></tr>
+</table>
+
+The change over day for checking in/out is saturday, with checkout at 11am and checkin at 3pm.

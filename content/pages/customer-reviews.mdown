@@ -1,0 +1,129 @@
+Summary: Customer Reviews
+
+# Customer Reviews
+
+As you can see below, our customers really enjoyed their stay, many return every year.
+
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <th class='first'>
+      Date
+    </th>
+    <th>
+      Customer
+    </th>
+    <th>
+      Review
+    </th>
+  </tr>
+  <tr>
+    <td class='first'>
+      10th April 2010
+    </td>
+    <td>
+      The Becks family Exmouth
+    </td>
+    <td>
+      It was a lovely chalet thank you we enjoyed our holiday and hope to come again
+    </td>
+  </tr>
+  <tr>
+    <td class='first'>
+      21st April 2010
+    </td>
+    <td>
+      Sue and John Dorset
+    </td>
+    <td>
+      Great holiday chalet very comfy well equipped and clean enjoyed the walks
+    </td>
+  </tr>
+  <tr>
+    <td class='first'>
+      30th May 2010
+    </td>
+    <td>
+      The Dowells Winsham
+    </td>
+    <td>
+      Thank you so much lovely chalet we will be coming back
+    </td>
+  </tr>
+  <tr>
+    <td class='first'>
+      20th June 2010
+    </td>
+    <td>
+      Lynda ans Steve Harris Chard
+    </td>
+    <td>
+      We had a wonderful stay, a very comfortable and clean chalet
+    </td>
+  </tr>
+  <tr>
+    <td class='first'>
+      30th July 2010
+    </td>
+    <td>
+      The Stevens family Somerset
+    </td>
+    <td>
+      Most enjoyable great beaches fantastic food at the Bush Inn and superb accommodation, we'll be back
+    </td>
+  </tr>
+  <tr>
+    <td class='first'>
+      13th Aug 2010
+    </td>
+    <td>
+      The Simmonds family Kent
+    </td>
+    <td>
+      Another lovely stay thank you. Everything you need what ever the weather. We love Sandynouth and Bude
+    </td>
+  </tr>
+  <tr>
+    <td class='first'>
+      21st Aug 2010
+    </td>
+    <td>
+      Paul Hodges and family
+    </td>
+    <td>
+      Lovely site to stay at, kids enjoyed the pool, we were overjoyed with the chalet love to come again thank you
+    </td>
+  </tr>
+  <tr>
+    <td class='first'>
+      30th Aug 2010
+    </td>
+    <td>
+      Karren Mike and Dons som
+    </td>
+    <td>
+      Thank you we had a lovely time and will be back
+    </td>
+  </tr>
+  <tr>
+    <td class='first'>
+      8th Sept 2010
+    </td>
+    <td>
+      Mary and Peter Combe
+    </td>
+    <td>
+      A well equipped, beautiful chalet, which we thoroughly enjoyed
+    </td>
+  </tr>
+  <tr>
+    <td class='first'>
+      31st Oct 2010
+    </td>
+    <td>
+      Mark Val and Jammie
+    </td>
+    <td>
+      Good club house plenty of places to visit superb accommodation thank you
+    </td>
+  </tr>
+</table>

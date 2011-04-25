@@ -1,8 +1,8 @@
 # Title and subheading for your site. Used on the home page and in page
 # titles.
 #
-title: "My Site"
-subtitle: "(change this text in config/config.yml)"
+title: "Bude Chalet"
+subtitle: "Take a break in Bude, Cornwall"
 
 # You should really specify your content's author when generating an
 # Atom feed. Specify at least one of name, uri or email, and Nesta will
@@ -10,10 +10,10 @@ subtitle: "(change this text in config/config.yml)"
 #
 # http://www.atomenabled.org/developers/syndication/atom-format-spec.php#element.feed
 #
-# author:
-#   name: Your Name
-#   uri: http://yourhomepage.com
-#   email: you@yourdomain.com
+author:
+  name: Andrew Nesbitt
+  uri: http://teabass.com
+  email: andrewnez@gmail.com
 
 # You can stick with the default look and feel, or use a theme. Themes are
 # easy to create or install, and live inside the themes directory. You
@@ -52,7 +52,7 @@ content: content
 #     scroll down a bit to set it in production even if you're not deploying
 #     to your own server.
 #
-# google_analytics_code: "UA-???????-?"
+google_analytics_code: "UA-265870-19"
 
 # Overriding "cache" and "content" in production is recommended if you're
 # deploying Nesta to your own server (but see the deployment documentation
@@ -62,6 +62,6 @@ content: content
 # Don't forget to uncomment the "production:" line too...
 
 # production:
-#   cache: true    
+#   cache: true
 #   content: /var/apps/nesta/shared/content
 #   google_analytics_code: "UA-???????-?"
