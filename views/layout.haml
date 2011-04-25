@@ -32,7 +32,9 @@
           = haml :header, :layout => false
           #content
             .content_wrap
-              .full-entry= yield
+              .full-entry
+                .post= yield
               = haml :sidebar, :layout => false
               .clear
       = haml :footer, :layout => false
+    = haml :analytics, :layout => false
