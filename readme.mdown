@@ -2,12 +2,6 @@
 
 Source code for refactoring of <http://budechalet.com> from radiant to nesta and sinatra
 
-## TODO
-
- * contact form
- * gallery
- * mdown tables
-
 ## Note on Patches/Pull Requests
 
  * Fork the project.
