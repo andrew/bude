@@ -1,6 +1,6 @@
 .gallery
   %ul#mycarousel.jcarousel-skin-atlantica
-    / <r:assets:each>
-    %li>
-      %a(href="<r:assets:url />" rel="gallery[Portfolio]")
-        %img (src='<r:assets:url size="homepage" />' width="458" height="284")
+    - %w(3888792759_926df04473_b.jpg 3888793141_ea670d79a0_b.jpg  DSC_6621.jpg  DSC_7538.jpg  DSC_7540.jpg  DSC_7562.JPG  DSC_7566.JPG  DSC_7576.JPG  DSC_7577.JPG  DSC_7583.JPG  bude01.jpg  bude22.jpg  bude26.jpg  pens-ex-act1-03.jpg  pens-in-swm-04.jpg).each do |pic|
+      %li>
+        %a{:href => "/attachments/originals/#{pic}", :rel => "gallery[Portfolio]"}
+          %img{:src => "/attachments/#{pic}", :width => "458", :height => "284"}
