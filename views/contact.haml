@@ -12,7 +12,7 @@
         %em
           required
       %br
-      %input(type="text" value="" class="required" id="full_name" name="contact[full_name]")
+      %input(type="text" value="" class="required" id="full_name" name="name")
   %p
     %label
       Email Address:
@@ -20,15 +20,15 @@
         %em
           required
       %br
-      %input(type="email" value="" class="required email" id="email" name="contact[email]")
+      %input(type="email" value="" class="required email" id="email" name="email")
   %p
     %label
       Telephone:
       %br
-      %input(type="tel" value="" id="phone" name="contact[phone]")
+      %input(type="tel" value="" id="telephone" name="telephone")
   %p
     %label
       Message:
       %br
-      %textarea(id="message" rows="5" cols="35" name="contact[message]")
+      %textarea(id="message" rows="5" cols="35" name="message")
   %input(type="submit" value="Send your message")

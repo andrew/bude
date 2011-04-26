@@ -24,9 +24,10 @@ module Nesta
           :password             => ENV['SENDGRID_PASSWORD'],
           :authentication       => :plain,
           :domain               => ENV['SENDGRID_DOMAIN']
-        })
+        }
+        )
       # set success message
-      haml(:contact)
+      redirect '/thankyou'
     end
   end
 end
