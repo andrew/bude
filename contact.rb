@@ -26,7 +26,6 @@ module Nesta
           :domain               => ENV['SENDGRID_DOMAIN']
         }
         )
-      # set success message
       redirect '/thankyou'
     end
   end
