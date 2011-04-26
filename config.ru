@@ -4,7 +4,7 @@ require 'bundler/setup'
 Bundler.require(:default)
 
 require 'nesta/app'
-require 'contact'
+require './contact'
 
 Nesta::App.root = ::File.expand_path('.', ::File.dirname(__FILE__))
 
