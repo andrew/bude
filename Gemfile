@@ -1,6 +1,6 @@
 source 'http://rubygems.org'
 
-gem 'nesta', '0.9.4', :git => 'git://github.com/andrew/nesta.git'
+gem 'nesta', '~> 0.9.5'
 gem 'pony'
 
 group :production do
