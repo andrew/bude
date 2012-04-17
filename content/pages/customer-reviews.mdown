@@ -17,6 +17,56 @@ As you can see below, our customers really enjoyed their stay, many return every
     </th>
   </tr>
   <tr>
+  <td class='first'>27th March 2011</td>
+  <td>Kerry and Mark, Somerset</td>
+  <td>Beautiful sunny weather, hoorah! Lovely walks, fantastic weekend. Huge thank you</td>
+  </tr>
+  <tr>
+  <td class='first'>30th April 2011</td>
+  <td>Ian and Linda, West Dorset</td>
+  <td>Thank you, we've had a lovely week. A good base for stunning coastal walks, and great places to eat. Beautiful weather a bonus!</td>
+  </tr>
+  <tr>
+  <td class='first'>31st May 2011</td>
+  <td>The Chadwicks, Somerset</td>
+  <td>We had a lovely stay, excellent chalet, very comfy and clean. Love the area and wil be coming back.</td>
+  </tr>
+  <tr>
+  <td class='first'>11th June 2011</td>
+  <td>Tony and Theresa, Somerset</td>
+  <td>Nice clean chalet, good base for the area, good pub food too.</td>
+  </tr>
+  <tr>
+  <td class='first'>1st July 2011</td>
+  <td>Lauren and Andrew, London</td>
+  <td>A very homely, comfortable chalet which was ideal for a relaxing break. It had everything we needed and more. It was a very enjoyable stay and we would love to return.</td>
+  </tr>
+  <tr>
+  <td class='first'>15th July 2011</td>
+  <td>Ali and Josh, Somerset</td>
+  <td>Had a lovely time, really nice chalet, so quiet. Comfy, good food at Manor, enjoyed entertainment. Pool was nice and warm, would love to come back again.</td>
+  </tr>
+  <tr>
+  <td class='first'>6th August 2011</td>
+  <td>Wallace, Kath and Family, Somerset</td>
+  <td>Great chalet, good weather, plenty of walking and surfing. Had a great stay, will be back.</td>
+  </tr>
+  <tr>
+  <td class='first'>3rd September 2011</td>
+  <td>Pat and Kevin, Somerset</td>
+  <td>So comfortable, thank you. Food at the stables bar is really good, Love Bude, chalet is brilliant.</td>
+  </tr>
+  <tr>
+  <td class='first'>3rd October 2011</td>
+  <td>Mel and Stuart, Sutton</td>
+  <td>A fantastic weekend, we didn't want to leave, thankyou</td>
+  </tr>
+  <tr>
+  <td class='first'>4th October 2011</td>
+  <td>Matt, Jo and William, Somerset</td>
+  <td>Thank you, we had a great time, can we have the same weather next time please!</td>
+  </tr>
+  <tr>
     <td class='first'>
       10th April 2010
     </td>
