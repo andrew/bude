@@ -14,4 +14,4 @@ Source code for refactoring of <http://budechalet.com> from radiant to nesta and
 
 ## Copyright
 
-Copyright (c) 2015 Andrew Nesbitt. See LICENSE for details.
+Copyright (c) 2016 Andrew Nesbitt. See LICENSE for details.
