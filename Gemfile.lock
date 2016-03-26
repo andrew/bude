@@ -39,6 +39,7 @@ DEPENDENCIES
   nesta (= 0.9.13)
   newrelic_rpm
   pony (= 1.4)
+  tilt (= 1.3.3)
 
 BUNDLED WITH
    1.11.2
