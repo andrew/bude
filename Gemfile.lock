@@ -36,9 +36,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  nesta (~> 0.9.11)
+  nesta (= 0.9.13)
   newrelic_rpm
-  pony
+  pony (= 1.4)
 
 BUNDLED WITH
    1.11.2
