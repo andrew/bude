@@ -6,14 +6,13 @@ The chalet is available for hire between March and October every year with compe
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr><th class='first'>Date Ranges</th><th>Prices per Week</th></tr>
-  <tr><td class='first'>4th March to 25th March</td><td>£160</td></tr>
-  <tr><td class='first'>25th March to 8th April</td><td>£265</td></tr>
-  <tr><td class='first'>8th April to 27th May</td><td>£200</td></tr>
-  <tr><td class='first'>27th May to 3rd June</td><td>£295</td></tr>
-  <tr><td class='first'>3rd June to 22nd July</td><td>£360</td></tr>
-  <tr><td class='first'>22nd July to 2nd Sept</td><td>£565</td></tr>
-  <tr><td class='first'>2nd Sept to 16th Sept</td><td>£295</td></tr>
-  <tr><td class='first'>16th Sept to 28th Oct</td><td>£260</td></tr>
+  <tr><td class='first'>7th April to 21st April</td><td>£265</td></tr>
+  <tr><td class='first'>21st April to 26th May</td><td>£225</td></tr>
+  <tr><td class='first'>26th May to 2nd June</td><td>£295</td></tr>
+  <tr><td class='first'>2nd June to 21st July</td><td>£360</td></tr>
+  <tr><td class='first'>21st July to 1st Sept</td><td>£565</td></tr>
+  <tr><td class='first'>1st Sept to 22nd Sept</td><td>£295</td></tr>
+  <tr><td class='first'>22nd Sept to 29th Oct</td><td>£260</td></tr>
 </table>
 
 The change over day for checking in/out is Friday, with checkout at 11am and checkin at 3pm.
