@@ -1,5 +1,5 @@
 source 'http://rubygems.org'
-ruby "2.3.1"
+ruby "2.4.2"
 
 gem 'nesta', '0.9.13'
 gem 'pony', '1.4'
