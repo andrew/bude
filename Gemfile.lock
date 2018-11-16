@@ -2,7 +2,7 @@ GEM
   remote: http://rubygems.org/
   specs:
     RedCloth (4.3.2)
-    ffi (1.9.23)
+    ffi (1.9.25)
     haml (3.1.8)
     mail (2.7.0)
       mini_mime (>= 0.1.1)
