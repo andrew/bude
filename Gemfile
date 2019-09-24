@@ -3,7 +3,7 @@ ruby "2.4.2"
 
 gem 'nesta', '0.11.0'
 gem 'pony', '1.13.1'
-gem 'tilt', '2.0.9'
+gem 'tilt', '2.0.10'
 gem 'maruku'
 gem 'kramdown'
 gem 'bluecloth'
