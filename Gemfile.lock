@@ -25,7 +25,7 @@ GEM
     newrelic_rpm (6.7.0.359)
     pony (1.13.1)
       mail (>= 2.0)
-    rack (1.6.11)
+    rack (1.6.12)
     rack-protection (1.5.5)
       rack
     rb-fsevent (0.10.3)
