@@ -22,7 +22,7 @@ GEM
       rdiscount (~> 2.1)
       sass (>= 3.1)
       sinatra (~> 1.4)
-    newrelic_rpm (6.8.0.360)
+    newrelic_rpm (6.9.0.363)
     pony (1.13.1)
       mail (>= 2.0)
     rack (1.6.12)
