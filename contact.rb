@@ -5,7 +5,7 @@ module Nesta
     end
 
     get '/' do
-      cache haml(:contact)
+      haml(:contact)
     end
 
     post '/' do
