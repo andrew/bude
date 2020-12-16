@@ -33,7 +33,7 @@ GEM
     rack-protection (2.0.8.1)
       rack
     rdiscount (2.2.0.1)
-    redcarpet (3.5.0)
+    redcarpet (3.5.1)
     rexml (3.2.4)
     ruby2_keywords (0.0.2)
     sassc (2.4.0)
