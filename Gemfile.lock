@@ -26,7 +26,7 @@ GEM
       sassc (>= 2.2)
       sinatra (~> 2.0)
       tilt (~> 2.0)
-    newrelic_rpm (6.15.0)
+    newrelic_rpm (7.2.0)
     pony (1.13.1)
       mail (>= 2.0)
     rack (2.2.3)
