@@ -9,7 +9,7 @@ GEM
       tilt
     haml-contrib (1.0.0.1)
       haml (>= 3.2.0.alpha.13)
-    kramdown (2.3.1)
+    kramdown (2.4.0)
       rexml
     mail (2.7.1)
       mini_mime (>= 0.1.1)
