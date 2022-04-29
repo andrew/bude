@@ -1,14 +1,12 @@
 source 'http://rubygems.org'
-ruby "2.7.1"
+ruby "3.1.2"
 
-gem 'nesta', '0.12.0'
-gem 'pony', '1.13.1'
-gem 'tilt', '2.0.10'
+gem 'nesta'
+gem 'pony'
+gem 'tilt'
+gem 'net-smtp', require: false
 gem 'maruku'
 gem 'kramdown'
 gem 'bluecloth'
 gem 'redcarpet'
-
-group :production do
-  gem 'newrelic_rpm'
-end
+gem 'puma'
