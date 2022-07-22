@@ -53,7 +53,7 @@ GEM
       rack-protection (= 2.2.0)
       tilt (~> 2.0)
     temple (0.8.2)
-    tilt (2.0.10)
+    tilt (2.0.11)
     timeout (0.2.0)
 
 PLATFORMS
