@@ -30,10 +30,10 @@ GEM
       timeout
     net-smtp (0.3.3)
       net-protocol
-    nio4r (2.5.8)
+    nio4r (2.5.9)
     pony (1.13.1)
       mail (>= 2.0)
-    puma (6.0.0)
+    puma (6.2.2)
       nio4r (~> 2.0)
     rack (2.2.4)
     rack-protection (2.2.0)
